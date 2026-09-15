@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signal Ledger | Broker vs Strategy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    .comparison-strip{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:25px 0;margin-bottom:70px;gap:28px}.comparison-strip h2{font-size:25px;letter-spacing:-1px;margin:0}.breakdown-grid{display:grid;grid-template-columns:repeat(4,minmax(100px,1fr));gap:28px}.breakdown-grid>div{min-width:100px;position:relative;padding-left:15px}.breakdown-dot{position:absolute;left:0;top:6px;width:7px;height:7px;border-radius:50%;background:var(--muted)}.breakdown-dot.both{background:var(--green)}.breakdown-dot.strategy-only,.breakdown-dot.broker-only{background:#dbb73c}.breakdown-grid strong{display:block;font:500 20px "DM Mono",monospace}.breakdown-grid small{display:block;color:var(--muted);font-size:10px;margin-top:6px;white-space:nowrap}.read i{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--green);margin-right:6px}.read i.review{background:#dbb73c}.read i.none{background:#c7d0ca}.diff-link{color:var(--green);font:11px "DM Mono",monospace;text-decoration:none;text-transform:uppercase;letter-spacing:.4px;white-space:nowrap}@media(max-width:700px){.comparison-strip{display:block;margin-bottom:55px}.breakdown-grid{grid-template-columns:repeat(2,1fr);gap:22px;margin-top:24px}.diff-link{display:none}}
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <a class="brand" href="#"><span class="brand-mark">S</span><span>signal ledger</span></a>
+      <a class="diff-link" href="difference.html">Profit difference →</a>
+      <div class="source-status"><span class="status-dot"></span><span id="sourceName">icicidirect.csv</span><span class="divider"></span><span id="rowCount">0 rows</span></div>
+      <label class="upload-button" for="fileInput">Import data <span>+</span></label>
+      <input id="fileInput" type="file" accept=".csv,.xlsx,.xls" hidden>
+    </header>
+
+    <main>
+      <section class="intro">
+        <div>
+          <p class="eyebrow">Decision workspace / 01</p>
+          <h1>Does your edge<br><em>agree</em> with the broker?</h1>
+          <p class="lede">Translate broker calls into a clean comparison against your own trading rule.</p>
+        </div>
+        <div class="rule-card">
+          <span class="rule-label">Active rule</span>
+          <strong id="ruleSummary">Broker Buy + upside &ge; 15%</strong>
+          <span class="rule-note">Signals are calculated from the imported recommendation feed.</span>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Strategy controls">
+        <div class="control-block strategy-control">
+          <label for="strategySelect">Compare my strategy</label>
+          <select id="strategySelect">
+            <option value="aligned">Buy + target upside meets threshold</option>
+            <option value="upside">Target upside only meets threshold</option>
+            <option value="buy">Broker recommendation is Buy</option>
+            <option value="dma" disabled>Price above 10-DMA (requires OHLC data)</option>
+          </select>
+        </div>
+        <div class="control-block threshold-control">
+          <label for="threshold">Minimum upside</label>
+          <div class="number-input"><input id="threshold" type="number" min="0" max="100" value="15"><span>%</span></div>
+        </div>
+        <button id="runButton" class="run-button">Run comparison <span>→</span></button>
+      </section>
+
+      <section class="metrics" aria-label="Summary metrics">
+        <article class="metric-card accent"><span class="metric-label">Agreement rate</span><strong id="agreementMetric">—</strong><span class="metric-foot" id="agreementFoot">Run a comparison to calculate</span></article>
+        <article class="metric-card"><span class="metric-label">Your strategy signals</span><strong id="strategyMetric">—</strong><span class="metric-foot">potential entries found</span></article>
+        <article class="metric-card"><span class="metric-label">Broker buy calls</span><strong id="brokerMetric">—</strong><span class="metric-foot">in the imported feed</span></article>
+        <article class="metric-card"><span class="metric-label">Avg. stated upside</span><strong id="upsideMetric">—</strong><span class="metric-foot">where a target is available</span></article>
+      </section>
+
+      <section class="comparison-strip" aria-label="Strategy and broker comparison">
+        <div><p class="eyebrow">Comparison breakdown / 01</p><h2>Who is calling it?</h2></div>
+        <div class="breakdown-grid">
+          <div><span class="breakdown-dot both"></span><strong id="bothMetric">—</strong><small>Both agree</small></div>
+          <div><span class="breakdown-dot strategy-only"></span><strong id="strategyOnlyMetric">—</strong><small>Strategy only</small></div>
+          <div><span class="breakdown-dot broker-only"></span><strong id="brokerOnlyMetric">—</strong><small>Broker only</small></div>
+          <div><span class="breakdown-dot neither"></span><strong id="neitherMetric">—</strong><small>Neither</small></div>
+        </div>
+      </section>
+
+      <section class="results-section">
+        <div class="section-heading"><div><p class="eyebrow">Signal matrix / 02</p><h2>Where the calls meet</h2></div><div class="legend"><span class="legend-item"><i class="match"></i> both agree</span><span class="legend-item"><i class="watch"></i> one-sided</span><span class="legend-item"><i class="neutral"></i> neither</span></div></div>
+        <div class="table-wrap"><table><thead><tr><th>Company</th><th>Date</th><th>Broker view</th><th>Current</th><th>Target</th><th>Upside</th><th>My strategy</th><th>Read</th></tr></thead><tbody id="resultsBody"></tbody></table><div id="emptyState" class="empty-state">Loading recommendation feed...</div></div>
+      </section>
+    </main>
+    <footer><span>Signal ledger</span><span>Research aid, not investment advice.</span><span id="updatedAt">—</span></footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,147 @@
+company,symbol,matched_name,status
+5,,,unresolved
+6,,,unresolved
+7,,,unresolved
+: IPO,,,error: HTTP Error 400: Bad Request
+"ABB 
+		  India",ABB.NS,ABB INDIA LIMITED,ok (498 rows)
+ACC Ltd.,STUDDS.NS,STUDDS ACCESSORIES LTD,ok (215 rows)
+AIA Engineering,AIAENG.NS,AIA ENGINEERING LIMITED,ok (496 rows)
+Aadhar Housing Finance,AADHARHFC.NS,AADHAR HOUSING FINANCE L,ok (499 rows)
+Aarti Industries Ltd.,AARTIIND.NS,AARTI INDUSTRIES LTD,ok (498 rows)
+Aarti Pharmalabs,AARTIPHARM.NS,AARTI PHARMALABS LIMITED,ok (498 rows)
+Abbott India,ABBOTINDIA.NS,ABBOTT INDIA LIMITED,ok (498 rows)
+Action Construction Equipment,ACE.NS,ACTION CONST EQUIP LTD,ok (498 rows)
+Adani Ports & SEZ,,,unresolved
+Aditya Birla Fashion & Retail,,,unresolved
+Aditya Birla Real Estate Ltd.,,,unresolved
+Advance Enzyme Techologies,,,unresolved
+Aequs Ltd.: IPO,,,unresolved
+Aeroflex Industries,AEROFLEX.NS,AEROFLEX INDUSTRIES LTD,ok (498 rows)
+Alembic Pharmaceuticals,APLLTD.NS,ALEMBIC PHARMA LTD,ok (498 rows)
+Alivus Life Sciences,ALIVUS.NS,ALIVUS LIFE SCIENCES LTD,ok (497 rows)
+Allied Blenders & Distillers,,,unresolved
+Amagi Media Labs: IPO,AMAGI.NS,AMAGI MEDIA LABS LIMITED,ok (163 rows)
+Amara Raja Energy & Mobility,ARE&M.NS,AMARA RAJA ENERGY MOB LTD,ok (499 rows)
+Amber Enterprises India,AMBER.NS,AMBER ENTERPRISES (I) LTD,ok (498 rows)
+Ambuja Cement,AMBUJACEM.NS,AMBUJA CEMENTS LTD,ok (499 rows)
+Anand Rathi Share : IPO,ARSSBL.NS,ANAND RATHI SH N STK BR L,ok (240 rows)
+Apollo Hospitals,,,unresolved
+Apollo Tyres,APOLLOTYRE.NS,APOLLO TYRES LTD,ok (499 rows)
+Artemis Medicare,ARTEMISMED.NS,ARTEMIS MED SERVICE LTD,ok (493 rows)
+Arvind Fashions,ARVINDFASN.NS,ARVIND FASHIONS LIMITED,ok (498 rows)
+Arvind Smartspaces,ARVSMART.NS,ARVIND SMARTSPACES LTD,ok (497 rows)
+Asian Paints,ASIANPAINT.NS,ASIAN PAINTS LIMITED,ok (499 rows)
+Asset Reconstruction Co. (India) Ltd.: IPO,,,unresolved
+Astec Lifesciences,ASTEC.NS,ASTEC LIFESCIENCES LTD,ok (499 rows)
+Astra Microwave Products,ASTRAMICRO.NS,ASTRA MICROWAVE LTD,ok (499 rows)
+Astral Ltd.,,,unresolved
+Atlanta Electricals Ltd. : IPO,ATLANTAELE.NS,ATLANTA ELECTRICALS LTD,ok (240 rows)
+Aurobindo Pharma Ltd.,AUROPHARMA.NS,AUROBINDO PHARMA LTD,ok (497 rows)
+Avadh Sugar,AVADHSUGAR.NS,AVADH SUG & ENERGY LTD,ok (497 rows)
+Avenue Supermarts Ltd,,,unresolved
+Axis Bank,AXISBANK.NS,AXIS BANK LIMITED,ok (498 rows)
+Aye Finance : IPO,AYE.NS,AYE FINANCE LIMITED,ok (146 rows)
+Azad Engineering Ltd.,,,unresolved
+BEML Ltd.,,,unresolved
+Bajaj Auto,BAJAJ-AUTO.NS,BAJAJ AUTO LIMITED,ok (499 rows)
+Bajaj Electricals,BAJAJELEC.NS,BAJAJ ELECT.LTD,ok (499 rows)
+Bajaj Finance,BAJFINANCE.NS,BAJAJ FINANCE LIMITED,ok (499 rows)
+Balkrishna Industries,BALKRISIND.NS,BALKRISHNA IND. LTD,ok (497 rows)
+Balrampur Chini Mills,BALRAMCHIN.NS,BALRAMPUR CHINI MILLS LTD,ok (499 rows)
+Bank of Baroda,BANKBARODA.NS,BANK OF BARODA,ok (499 rows)
+Bank of India,SBIN.NS,STATE BANK OF INDIA,ok (499 rows)
+Bank of Maharashtra,MAHABANK.NS,BANK OF MAHARASHTRA,ok (499 rows)
+Banking - Q4FY23 Earnings Review,,,unresolved
+Bata India,BATAINDIA.NS,BATA INDIA LTD,ok (499 rows)
+Berger Paints India,BERGEPAINT.NS,BERGER PAINTS (I) LTD,ok (498 rows)
+Bharat Coking Coal Ltd.: IPO,BHARATCOAL.NS,BHARAT COKING COAL LTD,ok (165 rows)
+Bharat Dynamics,BDL.NS,BHARAT DYNAMICS LIMITED,ok (498 rows)
+Bharat Electronics Ltd.,BEL.NS,BHARAT ELECTRONICS LTD,ok (499 rows)
+Bharat Forge,BHARATFORG.NS,BHARAT FORGE LTD,ok (498 rows)
+Bharat Petroleum Corporation,BPCL.NS,BHARAT PETROLEUM CORP  LT,ok (499 rows)
+Billionbrains Garage Ventures Ltd.: IPO,,,unresolved
+Biocon Ltd.,,,unresolved
+Birla Corporation,BIRLACORPN.NS,BIRLA CORPORATION LTD,ok (498 rows)
+Birlasoft Ltd.,,,unresolved
+BlueStone Jewellery & Lifestyle Ltd.,,,unresolved
+Bosch Limited,BOSCHLTD.NS,BOSCH LIMITED,ok (498 rows)
+Brigade Enterprises,BRIGADE.NS,BRIGADE ENTER. LTD,ok (498 rows)
+Budget Review: 2024-25,,,unresolved
+CG Power & Industrial Solutions Ltd.,,,unresolved
+CIE Automotive India,CIEINDIA.NS,CIE AUTOMOTIVE INDIA LTD,ok (496 rows)
+CSB Bank,CSBBANK.NS,CSB BANK LIMITED,ok (498 rows)
+Campus Activewear,,,unresolved
+CanFin Homes,,,unresolved
+Canara HSBC Life Insurance: IPO,CANHLIFE.NS,CANARA HSBC LIFE INS CO L,ok (228 rows)
+Canara Robeco AMC Ltd. : IPO,,,unresolved
+Capillary Technologies: IPO,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,ok (205 rows)
+Capital Market Players,,,unresolved
+Caplin Point Laboratories,CAPLIPOINT.NS,CAPLIN POINT LAB LTD.,ok (497 rows)
+Capri Global Capital Ltd.,CGCL.NS,CAPRI GLOBAL CAPITAL LTD,ok (499 rows)
+Carraro India Ltd.,,,unresolved
+Carysil Ltd.,,,unresolved
+Cement,ULTRACEMCO.NS,ULTRATECH CEMENT LIMITED,ok (499 rows)
+Cement- Q4FY23 Earnings Review,,,unresolved
+Central Mine Planning & Design Institute: IPO,CMPDI.NS,CENTRAL MINE P N D INST L,ok (118 rows)
+Cera Sanitaryware Ltd.,CERA.NS,CERA SANITARYWARE LTD,ok (497 rows)
+Chalet Hotels,CHALET.NS,CHALET HOTELS LIMITED,ok (498 rows)
+Cipla Ltd.,CIPLA.NS,CIPLA LTD,ok (498 rows)
+City Union Bank,,,unresolved
+Clean Max: IPO,CLEANMAX.NS,CLEAN MAX ENVIRO EN SOL L,ok (135 rows)
+Coal India,COALINDIA.NS,COAL INDIA LTD,ok (499 rows)
+Cochin Shipyard,COCHINSHIP.NS,COCHIN SHIPYARD LIMITED,ok (499 rows)
+Coforge Ltd.,,,unresolved
+Colgate Palmolive India,COLPAL.NS,COLGATE PALMOLIVE LTD.,ok (499 rows)
+Computer Age Management Services,CAMS.NS,COMPUTER AGE MNGT SER LTD,ok (498 rows)
+Control Print,CONTROLPR.NS,CONTROL PRINT LIMITED,ok (496 rows)
+Corona Remedies: IPO,CORONA.NS,CORONA REMEDIES LIMITED,ok (188 rows)
+CreditAccess Grameen Limited,CREDITACC.NS,CREDITACCESS GRAMEEN LTD,ok (498 rows)
+Crompton Greaves Consumer Electrials,,,unresolved
+Cyient DLM,CYIENTDLM.NS,CYIENT DLM LIMITED,ok (498 rows)
+Cyient Ltd,,,unresolved
+DCB Bank,DCBBANK.NS,DCB BANK LIMITED,ok (499 rows)
+Dabur India,DABUR.NS,DABUR INDIA LTD,ok (499 rows)
+Dalmia Bharat,DALMIASUG.NS,DALMIA BHARAT SUG IN LTD,ok (497 rows)
+Dalmia Bharat Sugar,DALMIASUG.NS,DALMIA BHARAT SUG IN LTD,ok (cached OHLC)
+Delhivery Limited,DELHIVERY.NS,DELHIVERY LIMITED,ok (498 rows)
+Dhampur Sugar,DHAMPURSUG.NS,DHAMPUR SUGAR MILLS LTD.,ok (499 rows)
+Dhoot Transmission Ltd.: IPO,DHOOTTRANS.NS,DHOOT TRANSMISSION LTD,ok (21 rows)
+Divi's Laboratories,DIVISLAB.NS,DIVI S LABORATORIES LTD,ok (498 rows)
+Dr Reddy's Laboratories,DRREDDY.NS,DR. REDDY S LABORATORIES,ok (499 rows)
+Dwarikesh Sugar,DWARKESH.NS,DWARIKESH SUGAR IND LTD,ok (497 rows)
+Dynamatic Technologies,DYNAMATECH.NS,DYNAMATIC TECHNOLOGIES,ok (498 rows)
+EIH Limited,EIHOTEL.NS,EIH LIMITED,ok (499 rows)
+EPack Durable Ltd.,,,unresolved
+EPack Prefab Technologies Ltd.,,,unresolved
+ESDS Software Solution: IPO,ESDS.NS,ESDS SOFTWARE SOLUTION L,ok (7 rows)
+ETF Strategy: 2026,,,unresolved
+ETF of the Month,,,unresolved
+Eicher Motors,EICHERMOT.NS,EICHER MOTORS LTD,ok (498 rows)
+Elgi Equipments,ELGIEQUIP.NS,ELGI EQUIPMENTS LTD,ok (498 rows)
+Emcure Pharmaceuticals,EMCURE.NS,EMCURE PHARMACEUTICALS L,ok (498 rows)
+Emmvee Photovoltaic Power Ltd.: IPO,,,unresolved
+Engineers India,ENGINERSIN.NS,ENGINEERS INDIA LTD,ok (498 rows)
+Escorts,ESCORTS.NS,ESCORTS KUBOTA LIMITED,ok (498 rows)
+Exide Industries,EXIDEIND.NS,EXIDE INDUSTRIES LTD,ok (499 rows)
+Federal Bank,FEDERALBNK.NS,FEDERAL BANK LTD,ok (499 rows)
+Fine Organic Industries Ltd.,,,unresolved
+Firstsource Solutions,FSL.NS,FIRSTSOURCE SOLU. LTD.,ok (499 rows)
+Fractal Analytics Ltd.: IPO,,,unresolved
+GAIL,GAIL.NS,GAIL (INDIA) LTD,ok (499 rows)
+Gabriel India,GABRIEL.NS,GABRIEL INDIA LTD,ok (498 rows)
+Gaja Alternative Asset Management Ltd.: IPO,,,unresolved
+Gateway Distriparks,GATEWAY.NS,GATEWAY DISTRIPARKS LTD,ok (498 rows)
+Gland Pharma,GLAND.NS,GLAND PHARMA LIMITED,ok (498 rows)
+Glenmark Pharma,GLENMARK.NS,GLENMARK PHARMACEUTICALS,ok (499 rows)
+Goodluck India,GOODLUCK.NS,GOODLUCK INDIA LIMITED,ok (499 rows)
+Granules India,GRANULES.NS,GRANULES INDIA LIMITED,ok (498 rows)
+Graphite India,GRAPHITE.NS,GRAPHITE INDIA LTD,ok (498 rows)
+Greaves Cotton,GREAVESCOT.NS,GREAVES COTTON LTD.,ok (499 rows)
+Greenlam Industries Ltd.,GREENLAM.NS,GREENLAM INDUSTRIES LTD.,ok (496 rows)
+Greenply Industries,GREENPLY.NS,GREENPLY INDUSTRIES LTD,ok (498 rows)
+Grindwell Norton,GRINDWELL.NS,GRINDWELL NORTON LIMITED,ok (497 rows)
+Gujarat Gas,,,unresolved
+Gujarat Pipavav Port,GPPL.NS,GUJARAT PIPAVAV PORT LTD,ok (498 rows)
+Gujarat State Petronet Ltd,,,unresolved
+HDFC Asset Management Co. Ltd.,,,unresolved
