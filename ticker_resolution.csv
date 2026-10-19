@@ -26,7 +26,7 @@ Amara Raja Energy & Mobility,ARE&M.NS,AMARA RAJA ENERGY MOB LTD,ok (499 rows)
 Amber Enterprises India,AMBER.NS,AMBER ENTERPRISES (I) LTD,ok (498 rows)
 Ambuja Cement,AMBUJACEM.NS,AMBUJA CEMENTS LTD,ok (499 rows)
 Anand Rathi Share : IPO,ARSSBL.NS,ANAND RATHI SH N STK BR L,ok (240 rows)
-Apollo Hospitals,,,unresolved
+Apollo Hospitals,APOLLOHOSP.NS,Apollo Hospitals,ok (495 rows)
 Apollo Tyres,APOLLOTYRE.NS,APOLLO TYRES LTD,ok (499 rows)
 Artemis Medicare,ARTEMISMED.NS,ARTEMIS MED SERVICE LTD,ok (493 rows)
 Arvind Fashions,ARVINDFASN.NS,ARVIND FASHIONS LIMITED,ok (498 rows)
@@ -71,7 +71,7 @@ Budget Review: 2024-25,,,unresolved
 CG Power & Industrial Solutions Ltd.,,,unresolved
 CIE Automotive India,CIEINDIA.NS,CIE AUTOMOTIVE INDIA LTD,ok (496 rows)
 CSB Bank,CSBBANK.NS,CSB BANK LIMITED,ok (498 rows)
-Campus Activewear,,,unresolved
+Campus Activewear,CAMPUS.NS,Campus Activewear,ok (495 rows)
 CanFin Homes,,,unresolved
 Canara HSBC Life Insurance: IPO,CANHLIFE.NS,CANARA HSBC LIFE INS CO L,ok (228 rows)
 Canara Robeco AMC Ltd. : IPO,,,unresolved
@@ -102,7 +102,7 @@ Cyient DLM,CYIENTDLM.NS,CYIENT DLM LIMITED,ok (498 rows)
 Cyient Ltd,,,unresolved
 DCB Bank,DCBBANK.NS,DCB BANK LIMITED,ok (499 rows)
 Dabur India,DABUR.NS,DABUR INDIA LTD,ok (499 rows)
-Dalmia Bharat,DALMIASUG.NS,DALMIA BHARAT SUG IN LTD,ok (497 rows)
+Dalmia Bharat,DALBHARAT.NS,Dalmia Bharat,ok (495 rows)
 Dalmia Bharat Sugar,DALMIASUG.NS,DALMIA BHARAT SUG IN LTD,ok (cached OHLC)
 Delhivery Limited,DELHIVERY.NS,DELHIVERY LIMITED,ok (498 rows)
 Dhampur Sugar,DHAMPURSUG.NS,DHAMPUR SUGAR MILLS LTD.,ok (499 rows)
@@ -145,3 +145,524 @@ Gujarat Gas,,,unresolved
 Gujarat Pipavav Port,GPPL.NS,GUJARAT PIPAVAV PORT LTD,ok (498 rows)
 Gujarat State Petronet Ltd,,,unresolved
 HDFC Asset Management Co. Ltd.,,,unresolved
+ASK Automotive,ASKAUTOLTD.NS,ASK AUTOMOTIVE LIMITED,ok (495 rows)
+Aarti Drugs,AARTIDRUGS.NS,AARTI DRUGS LTD.,ok (495 rows)
+Abbott,ABBOTINDIA.NS,ABBOTT INDIA LIMITED,ok (cached OHLC)
+Aditya Vision,AVL.NS,ADITYA VISION LIMITED,ok (476 rows)
+Aequs,AEQUS.NS,AEQUS LIMITED,ok (207 rows)
+Alkem Laboratories,ALKEM.NS,ALKEM LABORATORIES LTD.,ok (494 rows)
+Allcargo Logistics,ALLCARGO.NS,ALLCARGO LOGISTICS LTD,ok (495 rows)
+Amber Enterprises,AMBER.NS,AMBER ENTERPRISES (I) LTD,ok (cached OHLC)
+Ambuja Cements,AMBUJACEM.NS,AMBUJA CEMENTS LTD,ok (cached OHLC)
+Apeejay Surrendra,PARKHOTELS.NS,PARKHOTELS,ok (495 rows)
+Apollo Micro Systems,APOLLO.NS,APOLLO MICRO SYSTEMS LTD,ok (495 rows)
+Arvind,ARVIND.NS,ARVIND LIMITED,ok (495 rows)
+Ashok Leyland,ASHOKLEY.NS,ASHOK LEYLAND LTD,ok (495 rows)
+Asset Reconstruction Company,,,unresolved
+Astral,ASTRAL.NS,ASTRAL LIMITED,ok (495 rows)
+Ather Energy,ATHERENERG.NS,ATHER ENERGY LIMITED,ok (358 rows)
+Automobiles & Auto Components,,,unresolved
+Avenue Supermarts,DMART.NS,AVENUE SUPERMARTS LIMITED,ok (495 rows)
+Aye Finance,AYE.NS,AYE FINANCE LIMITED,ok (cached OHLC)
+Bajaj Consumer Care,BAJAJCON.NS,BAJAJ CONSUMER CARE LTD,ok (495 rows)
+Bajaj Finserv,BAJAJFINSV.NS,BAJAJ FINSERV LTD.,ok (495 rows)
+Bank Nifty,,,unresolved
+Banks,,,unresolved
+Bharat Coking Coal,BHARATCOAL.NS,BHARAT COKING COAL LTD,ok (cached OHLC)
+Britannia Industries,BRITANNIA.NS,BRITANNIA INDUSTRIES LTD,ok (495 rows)
+CESC,CESC.NS,CESC LTD,ok (495 rows)
+Can Fin Homes,CANFINHOME.NS,CAN FIN HOMES LTD,ok (495 rows)
+Canara Bank,CANBK.NS,CANARA BANK,ok (495 rows)
+Canara HSBC Life Insurance,CANHLIFE.NS,CANARA HSBC LIFE INS CO L,ok (cached OHLC)
+Canara Robeco Asset Management,CRAMC.NS,CANARA ROBECO AMC LIMITED,ok (244 rows)
+Capillary Technologies,CAPILLARY.NS,CAPILLARY TECHNO INDIA L,ok (cached OHLC)
+Carraro,CARRARO.NS,CARRARO INDIA LIMITED,ok (442 rows)
+Central Bank,CENTRALBK.NS,CENTRAL BANK OF INDIA,ok (495 rows)
+Centum Electronics,CENTUM.NS,CENTUM ELECTRONICS LTD,ok (494 rows)
+Century Plyboards,CENTURYPLY.NS,CENTURY PLYBOARDS (I) LTD,ok (494 rows)
+Chemicals & Petrochemicals,,,unresolved
+Cipla,CIPLA.NS,CIPLA LTD,ok (cached OHLC)
+Commodities,,,unresolved
+Coromandel,COROMANDEL.NS,COROMANDEL INTERNTL. LTD,ok (495 rows)
+Corona Remedies,CORONA.NS,CORONA REMEDIES LIMITED,ok (cached OHLC)
+Craftsman Automation,CRAFTSMAN.NS,CRAFTSMAN AUTOMATION LTD,ok (494 rows)
+Crompton Greaves,CROMPTON.NS,CROMPT GREA CON ELEC LTD,ok (495 rows)
+Cummins,,,unresolved
+Cyient,CYIENT.NS,CYIENT LIMITED,ok (495 rows)
+D P Abhushan,DPABHUSHAN.NS,D. P. ABHUSHAN LIMITED,ok (495 rows)
+Dabur,DABUR.NS,DABUR INDIA LTD,ok (cached OHLC)
+Delhivery,DELHIVERY.NS,DELHIVERY LIMITED,ok (cached OHLC)
+Devyani Intl,DEVYANI.NS,Devyani Intl,ok (495 rows)
+Dr. Lal Pathlabs,LALPATHLAB.NS,DR. LAL PATH LABS LTD.,ok (495 rows)
+Dynamatic Tech,DYNAMATECH.NS,DYNAMATIC TECHNOLOGIES,ok (cached OHLC)
+Electronics Mart,EMIL.NS,ELECTRONICS MART IND LTD,ok (495 rows)
+Endurance Tech,ENDURANCE.NS,ENDURANCE TECHNO. LTD.,ok (495 rows)
+Eveready Industries,EVEREADY.NS,EVEREADY INDS. IND.  LTD.,ok (494 rows)
+FIEM Industries,FIEMIND.NS,FIEM INDUSTRIES LIMITED,ok (495 rows)
+Fine Organic,FINEORG.NS,FINE ORGANIC IND. LTD.,ok (495 rows)
+Foreign Investment,,,unresolved
+Fractal Analytics,FRACTAL.NS,FRACTAL ANALYTICS LIMITED,ok (161 rows)
+Fusion CX,,,unresolved
+GHCL,GHCL.NS,GHCL LIMITED,ok (495 rows)
+HCL Technologies,HCLTECH.NS,HCL TECHNOLOGIES LTD,ok (495 rows)
+HDFC AMC,HDFCAMC.NS,HDFC AMC LIMITED,ok (495 rows)
+HDFC Bank,HDFCBANK.NS,HDFC BANK LTD,ok (495 rows)
+HDFC Ltd,,,unresolved
+HG Infra Engineering,,,unresolved
+HPL Electric & Power,HPL.NS,HPL ELECTRIC & POWER LTD,ok (495 rows)
+Havells India,HAVELLS.NS,HAVELLS INDIA LIMITED,ok (495 rows)
+Healthcare Global Enterprises,HCG.NS,HEALTHCARE GLOB. ENT. LTD,ok (495 rows)
+Hero MotoCorp,HEROMOTOCO.NS,HERO MOTOCORP LIMITED,ok (495 rows)
+Hero Motors Ltd.: IPO,,,unresolved
+Hester Biosciences,HESTERBIO.NS,HESTER BIOSCIENCES LTD,ok (494 rows)
+Hexaware Technologies,HEXT.NS,HEXAWARE TECHNOLOGIES LTD,ok (404 rows)
+Hikal Ltd.,,,unresolved
+Himatsingka Seide,HIMATSEIDE.NS,HIMATSINGKA SEIDE LTD,ok (495 rows)
+Hindalco Industries Ltd.,HINDALCO.NS,HINDALCO  INDUSTRIES  LTD,ok (495 rows)
+Hindustan Aeronautics,HAL.NS,HINDUSTAN AERONAUTICS LTD,ok (495 rows)
+Hindustan Copper,HINDCOPPER.NS,HINDUSTAN COPPER LTD,ok (495 rows)
+Hindustan Oil Exploration,HINDOILEXP.NS,HINDUSTAN OIL EXPLORATION,ok (495 rows)
+Hindustan Petroleum Corp,HINDPETRO.NS,HINDUSTAN PETROLEUM CORP,ok (495 rows)
+Hindustan Unilever,HINDUNILVR.NS,HINDUSTAN UNILEVER LTD.,ok (495 rows)
+Hindustan Unilever Ltd.,HINDUNILVR.NS,HINDUSTAN UNILEVER LTD.,ok (cached OHLC)
+Hindustan Zinc,HINDZINC.NS,HINDUSTAN ZINC LIMITED,ok (495 rows)
+Horizon Industrial Parks Ltd.: IPO,,,unresolved
+"Hotels, Restaurants & Tourism",,,unresolved
+Housing & Urban Development Corp,,,unresolved
+Huhtamaki  India,HUHTAMAKI.NS,HUHTAMAKI INDIA LIMITED,ok (495 rows)
+Hyundai Motor India Ltd.,HYUNDAI.NS,HYUNDAI MOTOR INDIA LTD,ok (489 rows)
+ICICI Lombard,ICICIGI.NS,ICICI LOMBARD GIC LIMITED,ok (495 rows)
+ICICI Lombard General Insurance,ICICIGI.NS,ICICI LOMBARD GIC LIMITED,ok (cached OHLC)
+IDFC First Bank,IDFCFIRSTB.NS,IDFC FIRST BANK LIMITED,ok (495 rows)
+IIFL Securities,,,unresolved
+IPO,,,unresolved
+IRB Infrastructure,IRB.NS,IRB INFRA DEV LTD.,ok (495 rows)
+ITC Hotels Ltd.,,,unresolved
+ITC Ltd.,ITC.NS,ITC LTD,ok (495 rows)
+Indegene,INDGN.NS,INDEGENE LIMITED,ok (495 rows)
+Index Outlook,,,unresolved
+India Defence Sector Update,,,unresolved
+Indian Bank,SOUTHBANK.NS,THE SOUTH INDIAN BANK LTD,ok (495 rows)
+Indian Brokerage Industry,,,unresolved
+Indian Economy,,,unresolved
+Indian Energy Exchange,IEX.NS,INDIAN ENERGY EXC LTD,ok (495 rows)
+Indian Hotels Company Ltd.,,,unresolved
+Indian Oil Corporation,IOC.NS,INDIAN OIL CORP LTD,ok (495 rows)
+Indigo Paints,INDIGOPNTS.NS,INDIGO PAINTS LIMITED,ok (495 rows)
+Indo Count Industries Ltd.,ICIL.NS,INDO COUNT INDUSTRIES LTD,ok (495 rows)
+Indo-MIM Ltd.: IPO,,,unresolved
+Indoco Remedies,INDOCO.NS,INDOCO REMEDIES LTD.,ok (495 rows)
+Indraprastha Gas,IGL.NS,INDRAPRASTHA GAS LTD,ok (495 rows)
+IndusInd Bank,INDUSINDBK.NS,INDUSIND BANK LIMITED,ok (495 rows)
+Inflation,,,unresolved
+Info Edge (India),NAUKRI.NS,INFO EDGE (I) LTD,ok (495 rows)
+Infosys Ltd.,HCL-INSYS.NS,HCL INFOSYSTEMS LTD,ok (495 rows)
+Innova Captab Ltd.,,,unresolved
+Inox,PVRINOX.NS,PVR INOX LIMITED,ok (494 rows)
+Intellect Design Arena,INTELLECT.NS,INTELLECT DESIGN ARENA,ok (495 rows)
+Interarch Building Solutions,INTERARCH.NS,INTERARCH BLDNG SOLTN LTD,ok (494 rows)
+Inventurus Knowledge Solutions,IKS.NS,INVENTURUS KNOWLEDGE SO L,ok (448 rows)
+Ipca Laboratories,IPCALAB.NS,IPCA LABORATORIES LTD,ok (494 rows)
+JK Cement,JKCEMENT.NS,JK CEMENT LIMITED,ok (495 rows)
+JK Lakshmi Cement,JKLAKSHMI.NS,JK LAKSHMI CEMENT LTD,ok (495 rows)
+JK Tyres,,,unresolved
+JM Financials,,,unresolved
+JSW Cement,JSWCEMENT.NS,JSW CEMENT LIMITED,ok (286 rows)
+JSW Infrastructure,JSWINFRA.NS,JSW INFRASTRUCTURE LTD,ok (495 rows)
+JSW Infrastructure Ltd.,JSWINFRA.NS,JSW INFRASTRUCTURE LTD,ok (cached OHLC)
+JSW Steel,JSWSTEEL.NS,JSW STEEL LIMITED,ok (495 rows)
+Jamna Auto,JAMNAAUTO.NS,JAMNA AUTO IND LTD,ok (495 rows)
+Jindal Stainless,JSL.NS,JINDAL STAINLESS LIMITED,ok (495 rows)
+Jindal Steel,JINDALSTEL.NS,JINDAL STEEL LIMITED,ok (495 rows)
+Jubilant Foodworks,JUBLFOOD.NS,JUBILANT FOODWORKS LTD,ok (495 rows)
+Jubilant Pharmova,JUBLPHARMA.NS,JUBILANT PHARMOVA LTD,ok (495 rows)
+Just Dial Ltd.,,,unresolved
+KEC International,KEC.NS,KEC INTL. LIMITED,ok (495 rows)
+KIMS Ltd.,,,unresolved
+KNR Construction,KNRCON.NS,KNR CONSTRU LTD.,ok (495 rows)
+KPIT Technologies,KPITTECH.NS,KPIT TECHNOLOGIES LIMITED,ok (495 rows)
+KPR Mills,,,unresolved
+KPR Mills Ltd.,,,unresolved
+KSB Limited,KSB.NS,KSB LIMITED,ok (495 rows)
+KSH International,KSHINTL.NS,KSH INTERNATIONAL LIMITED,ok (198 rows)
+Kajaria Ceramics,KAJARIACER.NS,KAJARIA CERAMICS LTD,ok (495 rows)
+Kalpataru Projects,KPIL.NS,KALPATARU PROJECT INT LTD,ok (494 rows)
+Kanohar Electricals Ltd.: IPO,KANOHAR.NS,KANOHAR ELECTRICALS LTD,ok (18 rows)
+Kansai Nerolac Paints,KANSAINER.NS,KANSAI NEROLAC PAINTS LTD,ok (494 rows)
+Karnataka Bank,KTKBANK.NS,KARNATAKA BANK LIMITED,ok (495 rows)
+Kaynes Technology India,KAYNES.NS,KAYNES TECHNOLOGY IND LTD,ok (495 rows)
+Keystone Realtors,RUSTOMJEE.NS,KEYSTONE REALTORS LIMITED,ok (494 rows)
+Kilburn Engineering Ltd.,KLBRENG-B.NS,KILBURN ENGINEERING LTD.,ok (38 rows)
+Kirloskar Oil Engines Ltd.,,,unresolved
+Knowledge Realty Trust,,,error: HTTP Error 404: Not Found
+Kotak Mahindra Bank,KOTAKBANK.NS,KOTAK MAHINDRA BANK LTD,ok (495 rows)
+Kusumgar Ltd.: IPO,,,unresolved
+L&T,LT.NS,L&T,ok (cached OHLC)
+LG Electronics,LGEINDIA.NS,LG ELECTRONICS INDIA LTD,ok (246 rows)
+LG Electronics India Ltd.,LGEINDIA.NS,LG ELECTRONICS INDIA LTD,ok (cached OHLC)
+LG Electronics India Ltd. : IPO,LGEINDIA.NS,LG ELECTRONICS INDIA LTD,ok (cached OHLC)
+LTM Ltd.,,,unresolved
+Lalithaa Jewellery Mart Ltd.: IPO,,,unresolved
+Landmark Cars,LANDMARK.NS,LANDMARK CARS LIMITED,ok (494 rows)
+Larsen & Toubro,LT.NS,LARSEN & TOUBRO LTD.,ok (495 rows)
+Latent View Analytics Ltd,LATENTVIEW.NS,LATENT VIEW ANALYTICS LTD,ok (495 rows)
+Laurus Labs,LAURUSLABS.NS,LAURUS LABS LIMITED,ok (495 rows)
+Lenskart Solutions Ltd.,LENSKART.NS,LENSKART SOLUTIONS LTD,ok (229 rows)
+Lenskart Solutions Ltd.: IPO,LENSKART.NS,LENSKART SOLUTIONS LTD,ok (cached OHLC)
+Ltd.,,,unresolved
+Lumax Auto Technologies,LUMAXTECH.NS,LUMAX AUTO TECH LTD,ok (494 rows)
+Lupin,LUPIN.NS,LUPIN LIMITED,ok (495 rows)
+Lupin Ltd,,,unresolved
+M M Forgings,MMFL.NS,MM FORGINGS LTD,ok (495 rows)
+M&M Financial,M&MFIN.NS,M&M FIN. SERVICES LTD,ok (495 rows)
+MM Forgings,MMFL.NS,MM FORGINGS LTD,ok (cached OHLC)
+MOIL,MOIL.NS,MOIL LIMITED,ok (495 rows)
+Macro Pulse,,,unresolved
+Mahanagar Gas,MGL.NS,MAHANAGAR GAS LTD.,ok (495 rows)
+Mahindra & Mahindra,M&M.NS,MAHINDRA & MAHINDRA LTD,ok (495 rows)
+Mahindra Lifespace Developers,MAHLIFE.NS,MAHINDRA LIFESPACE DEVLTD,ok (495 rows)
+Mahindra Logistics,MAHLOG.NS,MAHINDRA LOGISTIC LIMITED,ok (495 rows)
+Manappuram Finance,MANAPPURAM.NS,MANAPPURAM FINANCE LTD,ok (495 rows)
+Manipal Health Enterprises: IPO,MANIPALHOS.NS,MANIPAL HEALTH ENTERPRI L,ok (47 rows)
+Manipal Payment and Identity,,,unresolved
+Marico Ltd.,,,unresolved
+Market Movement,,,unresolved
+Market Strategy 2026: India - US Trade Deal,,,unresolved
+"Market Strategy 2026: US 
+		  - Iran war",,,unresolved
+Maruti Suzuki,MARUTI.NS,MARUTI SUZUKI INDIA LTD.,ok (495 rows)
+Maruti Suzuki India,MARUTI.NS,MARUTI SUZUKI INDIA LTD.,ok (cached OHLC)
+Mastek Ltd.,MASTEK.NS,MASTEK LTD,ok (495 rows)
+Matrimony.com Ltd,,,unresolved
+Max Estates,MAXESTATES.NS,MAX ESTATES LIMITED,ok (494 rows)
+Max Healthcare,MAXHEALTH.NS,MAX HEALTHCARE INS LTD,ok (495 rows)
+Mayur Uniquoters,MAYURUNIQ.NS,MAYUR UNIQUOTERS LTD,ok (494 rows)
+Mazagon Dock Shipbuilders,MAZDOCK.NS,MAZAGON DOCK SHIPBUIL LTD,ok (495 rows)
+Meesho,MEESHO.NS,MEESHO LIMITED,ok (207 rows)
+Meesho Ltd.: IPO,,,unresolved
+Metal and Mining,,,unresolved
+Milky Mist Daily Foods : IPO,,,unresolved
+Minda Corporation,MINDACORP.NS,MINDA CORPORATION LTD,ok (495 rows)
+Mishra Dhatu Nigam,MIDHANI.NS,MISHRA DHATU NIGAM LTD,ok (495 rows)
+Molbio Diagnostics,MOLBIO.NS,MOLBIO DIAGNOSTICS LTD,ok (39 rows)
+Molbio Diagnostics Ltd.: IPO,MOLBIO.NS,MOLBIO DIAGNOSTICS LTD,ok (cached OHLC)
+Moneyview,MONEYVIEW.NS,MONEYVIEW LIMITED,ok (7 rows)
+Monthly Auto Numbers,,,unresolved
+Monthly Corporate Action,,,unresolved
+Motherson Sumi Wiring India,MSUMI.NS,MOTHERSON SUMI WRNG IND L,ok (495 rows)
+Mphasis Ltd.,,,unresolved
+Multi Commodity Exchange,MCX.NS,MULTI COMMODITY EXCHANGE,ok (495 rows)
+Muthoot Finance,MUTHOOTFIN.NS,MUTHOOT FINANCE LIMITED,ok (495 rows)
+Muthoot Microfin,MUTHOOTMF.NS,MUTHOOT MICROFIN LIMITED,ok (494 rows)
+NCC Ltd.,,,unresolved
+NMDC Ltd,NMDC.NS,NMDC LTD.,ok (495 rows)
+NRB Bearings,NRBBEARING.NS,NRB BEARING LIMITED,ok (495 rows)
+NTPC Ltd.,NTPC.NS,NTPC LTD,ok (495 rows)
+Narayana Hrudayalaya,NH.NS,NARAYANA HRUDAYALAYA LTD.,ok (495 rows)
+Natco Pharma,NATCOPHARM.NS,NATCO PHARMA LTD.,ok (495 rows)
+National Stock Exchange: IPO,,,unresolved
+Navin Fluorine,NAVINFLUOR.NS,NAVIN FLUORINE INT. LTD,ok (494 rows)
+Neogen Chemicals,NEOGEN.NS,NEOGEN CHEMICALS LIMITED,ok (495 rows)
+Neogen Chemicals Ltd.,,,unresolved
+Nephro Care,NEPHROCARE-SM.NS,NEPHRO CARE INDIA LIMITED,ok (1 rows)
+Nephrocare Health Services,NEPHROPLUS.NS,NEPHROCARE HEALTH SERV L,ok (202 rows)
+Nestle India,NESTLEIND.NS,NESTLE INDIA LIMITED,ok (495 rows)
+Newgen Software,NEWGEN.NS,NEWGEN SOFTWARE TECH LTD,ok (495 rows)
+Nexus Select Trust,NXST.NS,Nexus Select Trust,ok (494 rows)
+Nifty 50,NIFTYBEES.NS,NIP IND ETF NIFTY BEES,ok (494 rows)
+Nippon Life Asset Mgmt,NAM-INDIA.NS,Nippon Life Asset Mgmt,ok (cached OHLC)
+Nippon Life India Asset Management,NAM-INDIA.NS,NIPPON L I A M LTD,ok (495 rows)
+Nitin Spinners,NITINSPIN.NS,NITIN SPINNERS LIMITED,ok (494 rows)
+Nuvoco Vistas Corporation,,,unresolved
+ONGC,ONGC.NS,OIL AND NATURAL GAS CORP.,ok (495 rows)
+Oberoi Realty,OBEROIRLTY.NS,OBEROI REALTY LIMITED,ok (495 rows)
+Oil & Gas Sector Update,,,unresolved
+OnEMI Technology Solutions: IPO,KISSHT.NS,ONEMI TECHNOLOGY SOL LTD,ok (108 rows)
+Orkla India Ltd.: IPO,,,unresolved
+P&G Health Ltd,,,unresolved
+PCBL,PCBL.NS,PCBL CHEMICAL LIMITED,ok (495 rows)
+PCBL Ltd,,,unresolved
+PG Electroplast,PGEL.NS,PG ELECTROPLAST LTD,ok (495 rows)
+PI Industries,PIIND.NS,PI Industries,ok (495 rows)
+PNC Infratech,PNCINFRA.NS,PNC INFRATECH LTD.,ok (495 rows)
+PPAP Automotive,PPAP.NS,PPAP AUTOMOTIVE LIMITED,ok (494 rows)
+PSP Projects,PSPPROJECT.NS,PSP PROJECTS LIMITED,ok (494 rows)
+PVR Inox,PVRINOX.NS,PVR INOX LIMITED,ok (cached OHLC)
+Pace Digitek Ltd. : IPO,,,unresolved
+Page Industries,PAGEIND.NS,PAGE INDUSTRIES LTD,ok (494 rows)
+Park Medi World,PARKHOSPS.NS,PARK MEDI WORLD LIMITED,ok (202 rows)
+Park Medi World Ltd.: IPO,,,unresolved
+Patel Engineering,PATELENG.NS,PATEL ENGINEERING LTD.,ok (495 rows)
+Pearl Global,PGIL.NS,PEARL GLOBAL IND LIMITED,ok (495 rows)
+Pearl Global Industries Ltd.,,,unresolved
+Persistent Systems,PERSISTENT.NS,PERSISTENT SYSTEMS LTD,ok (495 rows)
+Petronet LNG,PETRONET.NS,PETRONET LNG LIMITED,ok (495 rows)
+Pfizer Ltd,PFIZER.NS,PFIZER LTD,ok (495 rows)
+Pharmaceuticals & Biotech.,,,unresolved
+Physicswallah,PWL.NS,PHYSICSWALLAH LIMITED,ok (223 rows)
+Pidilite Industries,PIDILITIND.NS,PIDILITE INDUSTRIES LTD,ok (cached OHLC)
+Pine Labs Ltd.: IPO,,,unresolved
+Piramal Finance,PIRAMALFIN.NS,PIRAMAL FINANCE LIMITED,ok (230 rows)
+Polycab India,,,unresolved
+Poonawalla Fincorp,POONAWALLA.NS,POONAWALLA FINCORP LTD,ok (495 rows)
+Power Finance Corporation,PFC.NS,POWER FIN CORP LTD.,ok (495 rows)
+Power Grid Corporation of India,POWERGRID.NS,POWER GRID CORP. LTD.,ok (495 rows)
+Premier Explosives Ltd.,PREMEXPLN.NS,PREMIER EXPLOSIVES LTD,ok (495 rows)
+Prince Pipes and Fittings,PRINCEPIPE.NS,PRINCE PIPES FITTINGS LTD,ok (495 rows)
+Privi Speciality Checmial,,,unresolved
+Protean eGov Technologies,PROTEAN.NS,PROTEAN EGOV TECHNO LTD,ok (414 rows)
+Purple Style Labs Ltd.: IPO,,,unresolved
+Quality Power Electrical,QPOWER.NS,QUALITY POWER ELEC EQUP L,ok (402 rows)
+RACL Geartech Ltd.,,,unresolved
+RBI Action: Monetary Policy,,,unresolved
+RBL Bank,RBLBANK.NS,RBL Bank,ok (495 rows)
+RPG Life Sciences,RPGLIFE.NS,RPG LIFE SCIENCES LTD,ok (495 rows)
+Radico Khaitan,RADICO.NS,RADICO KHAITAN LTD,ok (494 rows)
+Rainbow Childrens Medicare,RAINBOW.NS,Rainbow Childrens Medicare,ok (494 rows)
+Rainbow Children’s Medicare,,,unresolved
+Ramkrishna Forging,RKFORGE.NS,RAMKRISHNA FORGINGS LTD,ok (495 rows)
+Ratnamani Metals & Tubes,RATNAMANI.NS,RATNAMANI MET & TUB LTD.,ok (495 rows)
+Raymond Realty,RAYMONDREL.NS,RAYMOND REALTY LIMITED,ok (318 rows)
+Redington Ltd.,,,unresolved
+Relaxo Footwears,RELAXO.NS,RELAXO FOOT LTD.,ok (495 rows)
+Result Preview: Auto  & auto ancillary,,,unresolved
+Result Preview: Banking Sector,,,unresolved
+Result Preview: Capital Goods & Power,,,unresolved
+Result Preview: Cement Sector,,,unresolved
+Result Preview: Chemicals,,,unresolved
+"Result Preview: Consumer  Discretionary 
+		  Sector",,,unresolved
+Result Preview: FMCG Sector,,,unresolved
+Result Preview: Hospitals,,,unresolved
+Result Preview: Hotels & Tourism,,,unresolved
+Result Preview: IT Sector,,,unresolved
+Result Preview: Logistics Sector,,,unresolved
+Result Preview: Media Sector,,,unresolved
+Result Preview: Metals,,,unresolved
+Result Preview: Oil & Gas,,,unresolved
+Result Preview: Pharma,,,unresolved
+"Result Preview: Real Estate & 
+		  Infrastructure",,,unresolved
+Result Preview: Retail Sector,,,unresolved
+Result Preview: Telecom Sector,,,unresolved
+Rishabh Instruments Ltd.,RISHABH.NS,RISHABH INSTRUMENTS LTD,ok (494 rows)
+Rossell Techsys,ROSSTECH.NS,ROSSELL TECHSYS LIMITED,ok (455 rows)
+Rubicon Research : IPO,RUBICON.NS,RUBICON RESEARCH LIMITED,ok (243 rows)
+SAI Parenteral's Ltd.: IPO,,,unresolved
+SBI,SBIN.NS,STATE BANK OF INDIA,ok (cached OHLC)
+SBI Cards and Payment,SBICARD.NS,SBI CARDS & PAY SER LTD,ok (495 rows)
+SBI Funds Management Ltd.: IPO,SBIFUNDS.NS,SBI FUNDS MANAGEMENT LTD,ok (58 rows)
+SBI Life Insurance,SBILIFE.NS,SBI LIFE INSURANCE CO LTD,ok (495 rows)
+SKF India,SKFINDIA.NS,SKF INDIA LTD,ok (495 rows)
+SRF,SRF.NS,SRF LTD,ok (495 rows)
+Sagar Cement,SAGCEM.NS,SAGAR CEMENTS LIMITED,ok (494 rows)
+Sagility,SAGILITY.NS,SAGILITY LIMITED,ok (474 rows)
+Sakar Healthcare,SAKAR.NS,SAKAR HEALTHCARE LIMITED,ok (495 rows)
+Sandhar Technologies,SANDHAR.NS,SANDHAR TECHNOLOGIES LTD,ok (495 rows)
+Sansera Engineering,SANSERA.NS,SANSERA ENGINEERING LTD,ok (495 rows)
+Saregama India,SAREGAMA.NS,SAREGAMA INDIA LIMITED,ok (494 rows)
+Savita Oil Technologies,SOTL.NS,SAVITA OIL TECHNOLO. LTD,ok (495 rows)
+Schneider Electric,SCHNEIDER.NS,SCHNEIDER ELECTRIC INFRA,ok (495 rows)
+Sedemac Mechatronics: IPO,SEDEMAC.NS,SEDEMAC MECHATRONICS LTD,ok (145 rows)
+Senco Gold,SENCO.NS,SENCO GOLD LIMITED,ok (495 rows)
+Seshaasai Technologies : IPO,STYL.NS,SESHAASAI TECHNOLOGIES L,ok (255 rows)
+Shalby Limited,SHALBY.NS,SHALBY LIMITED,ok (495 rows)
+Shalby Ltd,,,unresolved
+Sharda Cropchem,SHARDACROP.NS,SHARDA CROPCHEM LTD.,ok (495 rows)
+Sheela Foam,SFL.NS,SHEELA FOAM LIMITED,ok (495 rows)
+Shree Cement,SHREECEM.NS,SHREE CEMENT LIMITED,ok (495 rows)
+Shriram Finance,SHRIRAMFIN.NS,SHRIRAM FINANCE LIMITED,ok (495 rows)
+Shriram Properties,SHRIRAMPPS.NS,SHRIRAM PROPERTIES LTD,ok (495 rows)
+Siemens Energy India Ltd.,ENRIN.NS,SIEMENS ENERGY INDIA LTD,ok (326 rows)
+Siyaram Silk Mills Limited,SIYSIL.NS,SIYARAM SILK MILLS LTD,ok (495 rows)
+Software & Services,,,unresolved
+Somany Ceramics,SOMANYCERA.NS,SOMANY CERAMICS LIMITED,ok (494 rows)
+Sonata Software,SONATSOFTW.NS,SONATA SOFTWARE LTD,ok (495 rows)
+Spandana Sphoorty  Financial,SPANDANA.NS,SPANDANA SPHOORTY FIN LTD,ok (495 rows)
+Sportking India,SPORTKING.NS,SPORTKING INDIA LIMITED,ok (494 rows)
+Star Cement,STARCEMENT.NS,STAR CEMENT LIMITED,ok (494 rows)
+Star Health Allied Ins. Co.,,,unresolved
+State Bank of India,SBIN.NS,STATE BANK OF INDIA,ok (cached OHLC)
+Steel Sector Update,,,unresolved
+Steel Strips Wheels Ltd.,SSWL.NS,STEEL STRIPS WHEELS LTD.,ok (494 rows)
+Sterlite Technologies,STLTECH.NS,STERLITE TECHNOLOGIES LTD,ok (495 rows)
+Studds Accessories Ltd.: IPO,STUDDS.NS,STUDDS ACCESSORIES LTD,ok (cached OHLC)
+Stylam Industries,STYLAMIND.NS,STYLAM INDUSTRIES LIMITED,ok (495 rows)
+Sudarshan Chemical,SUDARSCHEM.NS,SUDARSHAN CHEMICAL INDS L,ok (495 rows)
+Sudeep Pharma: IPO,SUDEEPPHRM.NS,SUDEEP PHARMA LIMITED,ok (215 rows)
+Sumitomo Chemicals,,,unresolved
+Sun Pharma,SUNPHARMA.NS,SUN PHARMACEUTICAL IND L,ok (495 rows)
+Sun TV Network,SUNTV.NS,SUN TV NETWORK LIMITED,ok (495 rows)
+Supreme Industries Ltd.,SUPREMEIND.NS,SUPREME INDUSTRIES LTD,ok (495 rows)
+Suzlon Energy,SUZLON.NS,SUZLON ENERGY LIMITED,ok (495 rows)
+Swaraj Engines,SWARAJENG.NS,SWARAJ ENGINES LTD,ok (494 rows)
+Symbiotec Pharmalab,SYMBIOTEC.NS,SYMBIOTEC PHARMALAB LTD,ok (28 rows)
+Symbiotec Pharmalab Ltd.: IPO,SYMBIOTEC.NS,SYMBIOTEC PHARMALAB LTD,ok (cached OHLC)
+Syngene International,SYNGENE.NS,SYNGENE INTERNATIONAL LTD,ok (495 rows)
+Syrma SGS Technology,SYRMA.NS,SYRMA SGS TECHNOLOGY LTD,ok (495 rows)
+TBO Tek,TBOTEK.NS,TBO TEK LIMITED,ok (495 rows)
+TCI Express,TCIEXP.NS,TCI EXPRESS LIMITED,ok (494 rows)
+TCS,TCS.NS,TATA CONSULTANCY SERV LT,ok (495 rows)
+TD Power Systems,TDPOWERSYS.NS,TD POWER SYSTEMS LTD.,ok (495 rows)
+TTK Prestige,TTKPRESTIG.NS,TTK PRESTIGE LTD,ok (495 rows)
+TVS Electronics,TVSELECT.NS,TVS ELECTRONICS LTD,ok (494 rows)
+TVS Motor Company,TVSMOTOR.NS,TVS MOTOR COMPANY  LTD,ok (495 rows)
+Tata Capital Ltd. : IPO,,,unresolved
+Tata Chemicals,TATACHEM.NS,TATA CHEMICALS LTD,ok (495 rows)
+Tata Communications,TATACOMM.NS,TATA COMMUNICATIONS LTD,ok (495 rows)
+Tata Consultancy Services,TCS.NS,TATA CONSULTANCY SERV LT,ok (cached OHLC)
+Tata Consumer,TATACONSUM.NS,TATA CONSUMER PRODUCT LTD,ok (495 rows)
+Tata Consumer Products Ltd.,,,unresolved
+Tata Motors Commercial Vehicles,,,unresolved
+Tata Motors Passenger Vehicles,TMPV.NS,TATA MOTORS PASS VEH LTD,ok (495 rows)
+Tata Steel,TATASTEEL.NS,TATA STEEL LIMITED,ok (495 rows)
+TeamLease Services,TEAMLEASE.NS,TEAMLEASE SERVICES LTD.,ok (494 rows)
+Tech Mahindra,TECHM.NS,TECH MAHINDRA LIMITED,ok (495 rows)
+Technical Strategy,,,unresolved
+Techno Electric & Engineering,TECHNOE.NS,TECHNO ELEC & ENG CO. LTD,ok (495 rows)
+Tega Industries,TEGA.NS,TEGA INDUSTRIES LIMITED,ok (495 rows)
+Tenneco Clean Air,TENNIND.NS,TENNECO CLEAN AIR INDIA L,ok (222 rows)
+Tenneco Clean Air India Ltd.: IPO,,,unresolved
+Thangamayil Jewellery,THANGAMAYL.NS,THANGAMAYIL JEWELLERY LTD,ok (495 rows)
+The Anup Engineering Ltd.,ANUP.NS,THE ANUP ENGINEERING LTD,ok (495 rows)
+The Phoenix Mills,PHOENIXLTD.NS,THE PHOENIX MILLS LTD,ok (494 rows)
+The Ramco Cements,RAMCOCEM.NS,THE RAMCO CEMENTS LIMITED,ok (494 rows)
+Thermax Ltd.,THERMAX.NS,THERMAX LTD,ok (494 rows)
+Time Technoplast,TIMETECHNO.NS,TIME TECHNOPLAST LTD.,ok (495 rows)
+Timken India,TIMKEN.NS,TIMKEN INDIA LTD.,ok (494 rows)
+Titan Company Ltd.,,,unresolved
+Top Fundamental Picks,,,unresolved
+Torrent Pharma,TORNTPHARM.NS,TORRENT PHARMACEUTICALS L,ok (495 rows)
+Torrent Power,TORNTPOWER.NS,TORRENT POWER LTD,ok (495 rows)
+Transformers and Rectifiers India Ltd.,,,unresolved
+Transrail Lighting,TRANSRAILL.NS,TRANSRAIL LIGHTING LTD,ok (444 rows)
+Trent,TRENT.NS,TRENT LTD,ok (495 rows)
+Triveni Engineering,TRIVENI.NS,TRIVENI ENGG. & INDS. LTD,ok (495 rows)
+Triveni Turbine,TRITURBINE.NS,TRIVENI TURBINE LIMITED,ok (495 rows)
+UPL,UPL.NS,UPL LIMITED,ok (495 rows)
+UltraTech Cement,ULTRACEMCO.NS,ULTRATECH CEMENT LIMITED,ok (cached OHLC)
+Union Bank of India,UNIONBANK.NS,UNION BANK OF INDIA,ok (495 rows)
+United Breweries,UBL.NS,UNITED BREWERIES LTD,ok (495 rows)
+United Spirits,UNITDSPR.NS,UNITED SPIRITS LIMITED,ok (495 rows)
+Urban Company : IPO,URBANCO.NS,URBAN COMPANY LIMITED,ok (264 rows)
+Usha Martin,USHAMART.NS,USHA MARTIN LTD.,ok (495 rows)
+V-Guard Industries,VGUARD.NS,V-GUARD IND LTD.,ok (495 rows)
+V-Mart Ltd.,,,unresolved
+VA Tech Wabag,WABAG.NS,VA TECH WABAG LTD,ok (495 rows)
+VIP Industries,VIPIND.NS,VIP INDUSTRIES LTD,ok (494 rows)
+VST Tillers Tractors,VSTTILLERS.NS,VST TILLERS TRACTORS LTD,ok (494 rows)
+Va Tech Wabag,WABAG.NS,VA TECH WABAG LTD,ok (cached OHLC)
+Vardhman Special Steel,VSSL.NS,VARDHMAN SPC STEEL LTD,ok (495 rows)
+Vardhman Textiles,VTL.NS,VARDHMAN TEXTILES LIMITED,ok (495 rows)
+Varmora Granito,VARMORA.NS,VARMORA GRANITO LIMITED,ok (9 rows)
+Varun Beverages,VBL.NS,VARUN BEVERAGES LIMITED,ok (495 rows)
+Vedanta Aluminium Metal,VAML.NS,VEDANTA ALUMINIUM METAL L,ok (83 rows)
+Ventive Hospitality,VENTIVE.NS,VENTIVE HOSPITALITY LTD,ok (443 rows)
+Venus Pipes and Tubes,VENUSPIPES.NS,VENUS PIPES & TUBES LTD,ok (495 rows)
+Vesuvius India,VESUVIUS.NS,VESUVIUS INDIA LTD,ok (494 rows)
+Vijaya Diagnostic Centre,VIJAYA.NS,VIJAYA DIAGNOSTIC CEN LTD,ok (494 rows)
+Vikram Solar : IPO,VIKRAMSOLR.NS,VIKRAM SOLAR LIMITED,ok (279 rows)
+Vinati Organics,VINATIORGA.NS,VINATI ORGANICS LTD,ok (495 rows)
+Vishal Mega Mart,VMM.NS,VISHAL MEGA MART LIMITED,ok (450 rows)
+Voltas,VOLTAS.NS,VOLTAS LTD,ok (495 rows)
+Voltas Ltd,VOLTAS.NS,VOLTAS LTD,ok (cached OHLC)
+Waaree Energies,WAAREEENER.NS,WAAREE ENERGIES LIMITED,ok (485 rows)
+Wakefit Innovations,WAKEFIT.NS,WAKEFIT INNOVATIONS LTD,ok (203 rows)
+Wakefit Innovations Ltd.: IPO,WAKEFIT.NS,WAKEFIT INNOVATIONS LTD,ok (cached OHLC)
+Waterways Leisure Tourism Ltd.: IPO,,,unresolved
+WeWork India Management Ltd. : IPO,,,unresolved
+Welspun Corp,WELCORP.NS,WELSPUN CORP LIMITED,ok (495 rows)
+Wipro,WIPRO.NS,WIPRO LTD,ok (495 rows)
+Wipro Ltd,WIPRO.NS,WIPRO LTD,ok (cached OHLC)
+Wonderla Holidays,WONDERLA.NS,WONDERLA HOLIDAYS LTD.,ok (494 rows)
+World Economy and Markets,,,unresolved
+Yes Bank,YESBANK.NS,YES BANK LIMITED,ok (495 rows)
+ZF Commercial Vehicle Control System,ZFCVINDIA.NS,ZF COM VE CTR SYS IND LTD,ok (495 rows)
+Zee Entertainment,ZEEL.NS,ZEE ENTERTAINMENT ENT LTD,ok (495 rows)
+Zen Technologies,ZENSARTECH.NS,ZENSAR TECHNOLOGIES  LTD,ok (495 rows)
+Zensar Technologies,ZENSARTECH.NS,ZENSAR TECHNOLOGIES  LTD,ok (cached OHLC)
+Zydus LifeSciences,ZYDUSLIFE.NS,ZYDUS LIFESCIENCES LTD,ok (495 rows)
+Zydus Wellness,ZYDUSWELL.NS,ZYDUS WELLNESS LIMITED,ok (495 rows)
+auto-style14,,,unresolved
+eClerx Services Limited,ECLERX.NS,ECLERX SERVICES LTD,ok (495 rows)
+Adani Green Energy,ADANIGREEN.NS,Adani Green Energy,ok (495 rows)
+Affle 3I,AFFLE.NS,Affle 3I,ok (495 rows)
+Ahluwalia Contracts,AHLUCONT.NS,Ahluwalia Contracts,ok (495 rows)
+Amagi Media Labs,AMAGI.NS,Amagi Media Labs,ok (cached OHLC)
+Amanta Healthcare,AMANTA.NS,Amanta Healthcare,ok (267 rows)
+Anupam Rasayan,ANURAS.NS,Anupam Rasayan,ok (495 rows)
+Azad Engineering,AZAD.NS,Azad Engineering,ok (495 rows)
+Belrise Industries,BELRISE.NS,Belrise Industries,ok (342 rows)
+Bharat Electronics,BEL.NS,Bharat Electronics,ok (cached OHLC)
+Bharti Airtel,BHARTIARTL.NS,Bharti Airtel,ok (495 rows)
+Bharti Hexacom,BHARTIHEXA.NS,Bharti Hexacom,ok (495 rows)
+Brokerage Research Reports,,,error: HTTP Error 404: Not Found
+Capri Global Capital,CGCL.NS,Capri Global Capital,ok (cached OHLC)
+Ceinsys Tech,CEINSYS.NS,Ceinsys Tech,ok (158 rows)
+Coforge,COFORGE.NS,Coforge,ok (495 rows)
+Cosmo First,COSMOFIRST.NS,Cosmo First,ok (494 rows)
+Deepak Fertilisers,DEEPAKFERT.NS,Deepak Fertilisers,ok (495 rows)
+Dixon Technologies,DIXON.NS,Dixon Technologies,ok (495 rows)
+Elecon Engineering,ELECON.NS,Elecon Engineering,ok (495 rows)
+Emami,EMAMILTD.NS,Emami,ok (495 rows)
+Enviro Infra Engineers,EIEL.NS,Enviro Infra Engineers,ok (463 rows)
+Eternal,ETERNAL.NS,Eternal,ok (495 rows)
+Fortis Healthcare,FORTIS.NS,Fortis Healthcare,ok (495 rows)
+GE T&D,GVT&D.NS,GE T&D,ok (495 rows)
+Ganesha Ecosphere,GANECOS.NS,Ganesha Ecosphere,ok (495 rows)
+Godrej Agrovet,GODREJAGRO.NS,Godrej Agrovet,ok (495 rows)
+Godrej Consumer Products,GODREJCP.NS,Godrej Consumer Products,ok (495 rows)
+Happiest Minds,HAPPSTMNDS.NS,Happiest Minds,ok (495 rows)
+Healthcare Global,HCG.NS,Healthcare Global,ok (cached OHLC)
+Hindalco Industries,HINDALCO.NS,Hindalco Industries,ok (cached OHLC)
+Indian Hotels Company,INDHOTEL.NS,Indian Hotels Company,ok (495 rows)
+Indian Overseas Bank,IOB.NS,Indian Overseas Bank,ok (495 rows)
+Indian Railway Catering,IRCTC.NS,Indian Railway Catering,ok (495 rows)
+Info Edge,NAUKRI.NS,Info Edge,ok (cached OHLC)
+Infosys,INFY.NS,Infosys,ok (495 rows)
+Inventurus Knowledge,IKS.NS,Inventurus Knowledge,ok (cached OHLC)
+JNK,JNKINDIA.NS,JNK,ok (494 rows)
+Jain Resource Recycling,JAINREC.NS,Jain Resource Recycling,ok (252 rows)
+Jaro Institute of Technology,JARO.NS,Jaro Institute of Technology,ok (254 rows)
+Jash Engineering,JASH.NS,Jash Engineering,ok (494 rows)
+Jio Financial,JIOFIN.NS,Jio Financial,ok (495 rows)
+Jyoti CNC Automation,JYOTICNC.NS,Jyoti CNC Automation,ok (495 rows)
+KEI Industries,KEI.NS,KEI Industries,ok (495 rows)
+Kaynes Technology,KAYNES.NS,Kaynes Technology,ok (cached OHLC)
+LIC Housing Finance,LICHSGFIN.NS,LIC Housing Finance,ok (495 rows)
+Lemon Tree Hotels,LEMONTREE.NS,Lemon Tree Hotels,ok (495 rows)
+Life Insurance Corp,LICI.NS,Life Insurance Corp,ok (495 rows)
+MPS,MPSLTD.NS,MPS,ok (494 rows)
+Mahindra Lifespace,MAHLIFE.NS,Mahindra Lifespace,ok (cached OHLC)
+Mankind Pharma,MANKIND.NS,Mankind Pharma,ok (495 rows)
+Medi Assist Healthcare,MEDIASSIST.NS,Medi Assist Healthcare,ok (495 rows)
+Medplus Health,MEDPLUS.NS,Medplus Health,ok (494 rows)
+Metropolis Healthcare,METROPOLIS.NS,Metropolis Healthcare,ok (495 rows)
+Mold-Tek Packaging,MOLDTKPAC.NS,Mold-Tek Packaging,ok (495 rows)
+Mrs. Bectors Food,BECTORFOOD.NS,Mrs. Bectors Food,ok (495 rows)
+NTPC,NTPC.NS,NTPC,ok (cached OHLC)
+National Stock Exchange,,,error: HTTP Error 404: Not Found
+OneSource Specialty Pharma,ONESOURCE.NS,OneSource Specialty Pharma,ok (424 rows)
+Premier Energies,PREMIERENE.NS,Premier Energies,ok (495 rows)
+Prime Focus,PFOCUS.NS,Prime Focus,ok (494 rows)
+Reliance Industries,RELIANCE.NS,Reliance Industries,ok (495 rows)
+Safe Enterprises Retail,,,error: HTTP Error 404: Not Found
+Sagar Cements,SAGCEM.NS,Sagar Cements,ok (cached OHLC)
+Samvardhana Motherson,MOTHERSON.NS,Samvardhana Motherson,ok (495 rows)
+Sanathan Textiles,SANATHAN.NS,Sanathan Textiles,ok (444 rows)
+Siemens Energy,ENRIN.NS,Siemens Energy,ok (cached OHLC)
+Skipper,SKIPPER.NS,Skipper,ok (495 rows)
+Sobha,SOBHA.NS,Sobha,ok (494 rows)
+Solar Industries,SOLARINDS.NS,Solar Industries,ok (494 rows)
+South Ind Bank,SOUTHBANK.NS,South Ind Bank,ok (cached OHLC)
+Strides Pharma,STAR.NS,Strides Pharma,ok (495 rows)
+Subros,SUBROS.NS,Subros,ok (494 rows)
+Supreme Industries,SUPREMEIND.NS,Supreme Industries,ok (cached OHLC)
+Titan Company,TITAN.NS,Titan Company,ok (495 rows)
+Transport Corp,TCI.NS,Transport Corp,ok (494 rows)
+Vimta Labs,VIMTALABS.NS,Vimta Labs,ok (495 rows)
+Vivid Electromech,,,error: HTTP Error 404: Not Found
+Vodafone Idea,IDEA.NS,Vodafone Idea,ok (495 rows)
+Whirlpool,WHIRLPOOL.NS,Whirlpool,ok (495 rows)
+Yatra Online,YATRA.NS,Yatra Online,ok (495 rows)
+eClerx Services,ECLERX.NS,eClerx Services,ok (cached OHLC)

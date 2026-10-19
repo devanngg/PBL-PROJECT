@@ -11,6 +11,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
 INPUT = ROOT / "icicidirect.csv"
+BROKER_INPUT = ROOT / "brokerage_reports.csv"
 OHLC_OUTPUT = ROOT / "ohlc_data.csv"
 RESOLUTION_OUTPUT = ROOT / "ticker_resolution.csv"
 SEARCH_URL = "https://query1.finance.yahoo.com/v1/finance/search?q={}&quotesCount=10&newsCount=0"
@@ -25,11 +26,25 @@ def request_json(url):
 
 def read_company_names():
     names = set()
-    with INPUT.open(newline="", encoding="utf-8-sig") as source:
-        for row in csv.reader(source):
-            if len(row) > 2 and row[2].strip() and row[2].strip() != "Company":
-                names.add(row[2].strip())
+    for input_path in (INPUT, BROKER_INPUT):
+        if not input_path.exists():
+            continue
+        with input_path.open(newline="", encoding="utf-8-sig") as source:
+            for row in csv.reader(source):
+                if len(row) > 2 and row[2].strip() and row[2].strip() != "Company":
+                    names.add(row[2].strip())
     return sorted(names)
+
+
+def read_source_symbols():
+    symbols = {}
+    if BROKER_INPUT.exists():
+        with BROKER_INPUT.open(newline="", encoding="utf-8-sig") as source:
+            for row in csv.DictReader(source):
+                company, ticker = row.get("Company", "").strip(), row.get("Symbol", "").strip()
+                if company and ticker:
+                    symbols[company] = ticker if ticker.endswith(".NS") else f"{ticker}.NS"
+    return symbols
 
 
 def search_symbol(company):
@@ -61,6 +76,7 @@ def main():
     if not INPUT.exists():
         raise SystemExit(f"Missing input file: {INPUT}")
     companies = read_company_names()
+    source_symbols = read_source_symbols()
     end = datetime.now(timezone.utc)
     start = end - timedelta(days=730)
     resolutions = []
@@ -83,11 +99,12 @@ def main():
     print(f"Resolving {len(companies)} company names and downloading daily OHLC data...")
     for position, company in enumerate(companies, 1):
         cached = resolution_by_company.get(company)
-        if cached and (cached["status"].startswith("ok") or cached["status"] == "unresolved"):
+        source_symbol = source_symbols.get(company)
+        if cached and (cached["status"].startswith("ok") or cached["status"] == "unresolved") and (not source_symbol or cached["symbol"] == source_symbol):
             print(f"[{position}/{len(companies)}] cached: {company}")
             continue
         try:
-            symbol, matched_name = search_symbol(company)
+            symbol, matched_name = (source_symbol, company) if source_symbol else search_symbol(company)
             if not symbol:
                 resolution_by_company[company] = {"company": company, "symbol": "", "matched_name": "", "status": "unresolved"}
                 print(f"[{position}/{len(companies)}] unresolved: {company}")

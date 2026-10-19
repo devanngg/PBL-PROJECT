@@ -27,17 +27,21 @@
       <section class="intro">
         <div>
           <p class="eyebrow">Decision workspace / 01</p>
-          <h1>Does your edge<br><em>agree</em> with the broker?</h1>
-          <p class="lede">Translate broker calls into a clean comparison against your own trading rule.</p>
+          <h1>Does your edge<br><em>agree</em> with brokers?</h1>
+          <p class="lede">Compare broker research calls with your own trading rule across the available broker feeds.</p>
         </div>
         <div class="rule-card">
           <span class="rule-label">Active rule</span>
           <strong id="ruleSummary">Broker Buy + upside &ge; 15%</strong>
-          <span class="rule-note">Signals are calculated from the imported recommendation feed.</span>
+          <span class="rule-note">Snapshot from the latest report page for each firm in <a href="https://trendlyne.com/research-reports/" target="_blank" rel="noreferrer">Trendlyne’s 85-firm directory</a>, filtered to one year. Refresh with fetch_brokerage_data.py.</span>
         </div>
       </section>
 
       <section class="controls" aria-label="Strategy controls">
+        <div class="control-block">
+          <label for="brokerSelect">Broker feed</label>
+          <select id="brokerSelect"><option value="all">All brokerages</option></select>
+        </div>
         <div class="control-block strategy-control">
           <label for="strategySelect">Compare my strategy</label>
           <select id="strategySelect">
@@ -73,7 +77,7 @@
 
       <section class="results-section">
         <div class="section-heading"><div><p class="eyebrow">Signal matrix / 02</p><h2>Where the calls meet</h2></div><div class="legend"><span class="legend-item"><i class="match"></i> both agree</span><span class="legend-item"><i class="watch"></i> one-sided</span><span class="legend-item"><i class="neutral"></i> neither</span></div></div>
-        <div class="table-wrap"><table><thead><tr><th>Company</th><th>Date</th><th>Broker view</th><th>Current</th><th>Target</th><th>Upside</th><th>My strategy</th><th>Read</th></tr></thead><tbody id="resultsBody"></tbody></table><div id="emptyState" class="empty-state">Loading recommendation feed...</div></div>
+        <div class="table-wrap"><table><thead><tr><th>Company</th><th>Date</th><th>Broker</th><th>Broker view</th><th>Price at call</th><th>Target</th><th>Upside</th><th>My strategy</th><th>Read</th></tr></thead><tbody id="resultsBody"></tbody></table><div id="emptyState" class="empty-state">Loading recommendation feed...</div></div>
       </section>
     </main>
     <footer><span>Signal ledger</span><span>Research aid, not investment advice.</span><span id="updatedAt">—</span></footer>
